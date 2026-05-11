@@ -2,5 +2,5 @@
 
 The complete, documented code for the ticket classifier and bias auditor.
 
-**Status:** pending
+**Status:** submitted
 **Due Date:** N/A
